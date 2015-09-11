@@ -118,6 +118,7 @@ width: 1200px;
 margin-left: 500px;
 color: #fff;
 font-size: 60px;
+margin-top: 70px;
 
 
 }
@@ -137,4 +138,20 @@ color: #FFF;
 .cont {
     margin-left: 100px;
     
+}
+
+.event-head {
+text-align: right;
+margin-right: 100px;
+ 
+}
+
+.tickets {
+width:300px;
+    background:#E74C3C;
+    color:#fff;
+    height:55px;
+    
+         height: 400px;
+         margin-top:  70px;
 }
