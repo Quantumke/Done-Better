@@ -92,3 +92,9 @@ i.hover{
     cursor: pointer;
 }
     
+
+.book {
+font-size:60px;
+color:#E74C3C ;
+  font-style: oblique;
+}
