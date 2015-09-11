@@ -102,17 +102,30 @@ color:#E74C3C ;
 .about
 {
     margin-top: 70px;
-height: auto;
+
 width: 100%;
     filter: brightness(30%);
 -webkit-filter: brightness(30%);
 -moz-filter: brightness(30%);
 -o-filter: brightness(30%);
--ms-filter: brightness(30%);}
+-ms-filter: brightness(30%);
+background:#111118;
+}
 
 
 .event {
-width: 1100px;
-margin-left: 50px;
+width: 1200px;
+margin-left: 500px;
+color: #fff;
+font-size: 60px;
 
+
+}
+.e
+{
+    
+}.notice-event {
+
+background:#29292C ;
+width: 3300px;
 }
