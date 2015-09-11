@@ -87,3 +87,8 @@ a:active {
 
 
 }
+i.hover{
+    background-color: blue;
+    cursor: pointer;
+}
+    
