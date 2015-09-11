@@ -34,13 +34,14 @@ font-family: Verdana, Arial, Helvetica, sans-serif
 
 }
 #header-li {
-    margin-left:30%;
+    margin-left:50%;
 position: absolute;
-top:180px;
+top:300px;
 left:100px;
 z-index: 1;
-font-size:40px;
+font-size:60px;
 color:#fff;
+
 font-family: Verdana, Arial, Helvetica, sans-serif;
 
     
