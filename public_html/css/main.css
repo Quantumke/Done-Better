@@ -101,7 +101,7 @@ color:#E74C3C ;
 
 .about
 {
-    margin-top: 40px;
+    margin-top: 70px;
 height: auto;
 width: 100%;
     filter: brightness(30%);
@@ -110,3 +110,9 @@ width: 100%;
 -o-filter: brightness(30%);
 -ms-filter: brightness(30%);}
 
+
+.event {
+width: 1100px;
+margin-left: 50px;
+
+}
