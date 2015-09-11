@@ -171,6 +171,11 @@ filter: brightness(20%);
 
 }
 
-.portfolio-back {
 
+.portfolio-text {
+text-align: center;
+font-size:  200px;
+color: #FFF;
+margin-bottom: 10px;
+vertical-align: middle;
 }
